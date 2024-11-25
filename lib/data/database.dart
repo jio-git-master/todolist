@@ -8,8 +8,8 @@ class ToDoDatabase{
 
   void createInitialData(){
     toDoList = [
-      ["Make tutorial", false],
-      ["Do exercise", false],
+      ["Task 1", false],
+      ["Task 2", false],
     ];
   }
 
