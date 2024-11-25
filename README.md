@@ -1,6 +1,12 @@
 # to_do_app
 
-A new Flutter project.
+A demo project using Flutter.
+
+
+### Change logs
+- *[v.x.x] 11-25-2024:* Initial version.
+
+
 
 ## Getting Started
 
